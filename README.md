@@ -1,7 +1,7 @@
 ## 🛠️ Technologies
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,go,python,php,spring,postgres,mysql,html,css,git,docker,linux,github&theme=dark" alt="Технологический стек"/> </p> <div align="center"></div>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,go,python,php,spring,hibernate,postgres,mysql,html,css,git,docker,linux,github&theme=dark" alt="Технологический стек"/> </p> <div align="center"></div>
 ● Languages: Java, C++, Go, Python, SQL, PHP<br>
-● Frameworks: Spring Framework<br>
+● Frameworks: Spring Framework, Hibernate<br>
 ● Databases: PostgreSQL, MySQL<br>
 ● Infrastructure: Docker, Linux, Git<br>
 ● Other: HTML5, CSS3<br>
