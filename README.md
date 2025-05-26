@@ -1,8 +1,3 @@
-<div id="badges">
-  <a href="https://t.me/nxlak">
-    <img src="https://shields.io/badge/telegram-blue?logo=telegram" alt="Telegram Badge"/>
-</div>
-
 ## 🛠️ Technologies
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,go,python,php,spring,hibernate,postgres,mysql,html,css,git,docker,linux,github&theme=dark" alt="Технологический стек"/> </p> <div align="center"></div>
 ● Languages: Java, C++, Go, Python, SQL, PHP<br>
